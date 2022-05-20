@@ -6,3 +6,5 @@ The tasks are written on Jupyter Notebook and solved manually on Markdown and/or
 - Linear Optimization
 - Nonlinear Optimization
 - Integer optimization
+# Additional message:
+All of the tasks are written in German!
